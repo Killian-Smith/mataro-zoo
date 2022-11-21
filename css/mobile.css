@@ -1,0 +1,60 @@
+@media only screen and (max-width: 768px) {
+  .land {
+    min-height: 100% !important;
+    background-size: cover;
+  }
+
+  .brand-img {
+    display: none;
+  }
+
+  .navbar {
+    padding: 6px !important;
+  }
+
+  .navbar-brand {
+    font-size: 22px !important;
+    font-weight: 400 !important;
+  }
+
+  .land-img {
+    padding-top: 100px;
+  }
+
+  .landing-h1 {
+    text-align: center;
+    font-size: 36px;
+    padding-top: 50px;
+  }
+
+  .landing-con {
+    margin: 0;
+  }
+
+  .btn-contact-con {
+    text-align: center;
+    padding-top: 40px;
+  }
+
+  .btn-form {
+    margin-bottom: 16px !important;
+  }
+
+  .about-h3 {
+    text-align: center;
+    padding-top: 12px !important;
+  }
+
+  .name-h3 {
+    text-align: center;
+  }
+
+  .copyright {
+    padding-top: 16px;
+  }
+
+  .news-page .card-deck {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+}
